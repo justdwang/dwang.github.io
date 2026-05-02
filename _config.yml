@@ -27,7 +27,7 @@ author:
   location:
   employer:
   pubmed:
-  googlescholar:
+  googlescholar: "https://scholar.google.com/citations?user=-lW5CysAAAAJ&hl=en&authuser=2"
   email: "csdwang@ncepu.edu.cn"
   researchgate: # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri: # e.g., "https://www.geneticode.org"
@@ -38,7 +38,7 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "justdwang" # e.g., "github username"
+  github: "geneticode" # e.g., "github username"
   google_plus:
   keybase:
   instagram:
