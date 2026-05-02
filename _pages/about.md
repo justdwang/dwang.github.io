@@ -49,5 +49,5 @@ This academic homepage is configured from the AcadHomepage template and is ready
 
 <h1>Contact</h1>
 
-- Email: [justdwang@outlook.com](mailto:justdwang@outlook.com)
-- GitHub: [justdwang](https://github.com/justdwang)
+- Email: [csdwang@ncepu.edu.cn](mailto:csdwang@ncepu.edu.cn)
+- GitHub: [Geneticode Lab](https://github.com/geneticodelab)
